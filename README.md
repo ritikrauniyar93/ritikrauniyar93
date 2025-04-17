@@ -1,39 +1,28 @@
-<!-- Banner -->
-<p align="center">
-  <img src="A_banner_graphic_image_displays_Ritik_Rauniyar's_n.png" alt="Ritik Rauniyar Banner" />
-</p>
+# Hi, I'm Ritik Rauniyar 👋
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/ritikrauniyar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ritikrauniyar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ritikrauniyar93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🚀 About Me:
+I'm a B.Tech CSE student at Kalinga University with a passion for Data & AI Engineering. I specialize in data analytics, machine learning, and full-stack development. Currently, I am working on a **Ride Sharing Analytics Platform** as my final-year project.
 
----
+## 🛠️ Technologies & Tools:
+- **Programming Languages:** Python, C, SQL, HTML
+- **Frameworks & Libraries:** Flask, React, Node.js, TensorFlow, PyTorch, Matplotlib
+- **Databases:** MySQL, SQLite, Firebase Firestore
+- **Tools:** VS Code, Kaggle, Google Colab, LaTeX
+- **Certifications:** Hadoop, Big Data, IIoT and Robotics, IBM Data Analytics
 
-## 📌 Table of Contents
-- [Quick Facts About Me](#quick-facts-about-me)
-- [Honors & Awards](#honors--awards)
-- [Technologies & Tools](#technologies--tools)
-- [GitHub Analytics](#github-analytics)
-- [Featured Projects](#featured-projects)
-- [Achievements](#achievements)
-- [Contribution Graph](#contribution-graph)
+## 👨‍💻 Currently Working On:
+- **Ride Sharing Analytics Platform** (Final Year Project) using Flask & Firebase Firestore
+- **Personal Portfolio Website** showcasing my work and achievements
+- **Research Paper on AI Question Bank** published in IJNRD
 
----
+## 📈 GitHub Stats:
+[![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikrauniyar93&show_icons=true&theme=radical)](https://github.com/ritikrauniyar93)
 
-## Quick Facts About Me
-```python
-class RitikRauniyar:
-    def __init__(self):
-        self.name = "Ritik Rauniyar"
-        self.education = "B.Tech in Computer Science, Kalinga University (2021–2025)"
-        self.skills = ["Python", "Machine Learning", "Data Analytics", "Web Development", "Firebase"]
-        self.research = ["Ride-Sharing Analytics", "Real-Time Chat Application"]
+## 🔗 Links:
+- [LinkedIn](https://linkedin.com/in/ritikrauniyar)
+- [GitHub](https://github.com/ritikrauniyar93)
+- [Email](mailto:ritikrauniyar@gmail.com)
 
-    def get_goal(self):
-        return "To solve real-world problems using AI & Data!"
-
-    def say_hello(self):
-        print("Thanks for visiting my GitHub profile!")
+## 📝 Latest Blog Posts:
+- [Blog Title 1](#)
+- [Blog Title 2](#)
