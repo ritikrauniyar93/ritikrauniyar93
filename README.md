@@ -1,28 +1,49 @@
-# Hi, I'm Ritik Rauniyar 👋
+<h1 align="center">Hi 👋, I'm Ritik Rauniyar</h1>
+<h3 align="center">Aspiring Data & AI Engineer | Final Year B.Tech CSE Student at Kalinga University</h3>
 
-## 🚀 About Me:
-I'm a B.Tech CSE student at Kalinga University with a passion for Data & AI Engineering. I specialize in data analytics, machine learning, and full-stack development. Currently, I am working on a **Ride Sharing Analytics Platform** as my final-year project.
+- 🔭 I’m currently working on **Ride Sharing Analytics Platform (Flask + Firebase)**  
+- 🧠 I’ve worked on **Brain MRI Tumor Detection** using CNN  
+- 💬 Ask me about **Python, Data Analytics, Machine Learning, Flask, Firebase**  
+- 📫 How to reach me **ritikrauniyar@gmail.com**  
+- 🌐 Portfolio (coming soon): `ritikrauniyar.github.io`
 
-## 🛠️ Technologies & Tools:
-- **Programming Languages:** Python, C, SQL, HTML
-- **Frameworks & Libraries:** Flask, React, Node.js, TensorFlow, PyTorch, Matplotlib
-- **Databases:** MySQL, SQLite, Firebase Firestore
-- **Tools:** VS Code, Kaggle, Google Colab, LaTeX
-- **Certifications:** Hadoop, Big Data, IIoT and Robotics, IBM Data Analytics
+---
 
-## 👨‍💻 Currently Working On:
-- **Ride Sharing Analytics Platform** (Final Year Project) using Flask & Firebase Firestore
-- **Personal Portfolio Website** showcasing my work and achievements
-- **Research Paper on AI Question Bank** published in IJNRD
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-## 📈 GitHub Stats:
-[![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikrauniyar93&show_icons=true&theme=radical)](https://github.com/ritikrauniyar93)
+---
 
-## 🔗 Links:
-- [LinkedIn](https://linkedin.com/in/ritikrauniyar)
-- [GitHub](https://github.com/ritikrauniyar93)
-- [Email](mailto:ritikrauniyar@gmail.com)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikrauniyar93&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikrauniyar93&theme=radical" width="47%"/>
+</p>
 
-## 📝 Latest Blog Posts:
-- [Blog Title 1](#)
-- [Blog Title 2](#)
+---
+
+### 📌 Featured Projects
+- 🚗 **Ride Sharing Analytics Platform**  
+  Final year project using Flask + Firebase Firestore. Includes analytics charts, tables, and maps.
+
+- 🧠 **Brain MRI Tumor Detection**  
+  A deep learning model built using CNN to detect tumors from MRI scans.
+
+- 💬 **Real-Time Chat Application**  
+  Built using Flask and Socket.IO with deployment on Render.
+
+---
+
+### 🔗 Connect with me
+<p>
+  <a href="https://linkedin.com/in/ritikrauniyar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:ritikrauniyar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ritikrauniyar93"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
