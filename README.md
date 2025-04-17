@@ -43,7 +43,7 @@
 
 ### 🔗 Connect with me
 <p>
-  <a href="https://linkedin.com/in/ritikrauniyar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="[https://linkedin.com/in/ritikrauniyar](https://www.linkedin.com/in/ritik-rauniyar-208758260/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:ritikrauniyar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ritikrauniyar93"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
